@@ -1,6 +1,8 @@
 # Company-Template
 :rocket: Powerful Company Template written in html5, css3 and Javascript JQuery :atom:
 
+<img src="https://github.com/anonik9900/Company-Template/blob/master/Company%20Template/preview/pre1.png?raw=true">
+
 # Dipendenze-Addictions:
 
 <ul>
