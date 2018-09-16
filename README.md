@@ -1,7 +1,7 @@
 # Company-Template
 :rocket: Powerful Company Template written in html5, css3 and Javascript JQuery :atom:
 
-# Dipendeze-Addictions:
+# Dipendenze-Addictions:
 
 <ul>
   <li><a href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">Font Awesome</a></li>
