@@ -1,0 +1,17 @@
+**********************************************
+Simple Cookie By Nicholas Impieri Aka Anonik
+
+		Writted in JS
+**********************************************
+
+
+
+
+
+USE THIS ONLY IN YOUR PERSONAL PORTFOLIO OR WEBSITE WITH LOW INTERNET TRAFFIC
+YOU NEED TO USE THE NEW GDPR EUROPEAN STANDARD.
+
+
+
+
+HAVE FUN :)

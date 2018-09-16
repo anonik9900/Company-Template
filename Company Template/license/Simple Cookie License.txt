@@ -1,0 +1,35 @@
+Simple Cookie written in Javascript
+
+How to Use
+Create your index.html file
+
+Include your Cookie.js file:
+
+<script src="cookie.js" type="text/javascript"></script>
+
+Include Jquery :
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+
+Test and edit your Personal Cookie advertise
+
+Create a Cookie Policy or Insert the pre-created policy by me.
+
+
+
+**********************************************
+Simple Cookie By Nicholas Impieri Aka Anonik
+
+		Writted in JS
+**********************************************
+
+
+
+
+
+USE THIS ONLY IN YOUR PERSONAL PORTFOLIO OR WEBSITE WITH LOW INTERNET TRAFFIC
+YOU NEED TO USE THE NEW GDPR EUROPEAN STANDARD.
+
+
+
+
+HAVE FUN :)

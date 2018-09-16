@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="author" content="Nicholas Impieri aka Anonil">
+    <meta name="description" content="Template for software writted in CSS3, SASS and HTML5">
+    <meta name="keywords" content="Template, Anonik, Nicholas Impieri, html, css3, sass">
+    <meta name="application-name" content="Software Template By Anonik">
+    <meta name="generator" content="">
+    <link href="css/style.css" type="text/css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <script src="js/cookie.js" type="text/javascript"></script> <!--Simple Cookie By Anonik -->
+    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon"/>
+    <script type="text/javascript">
+    /*
+    jQuery Scroll to ID
+    */
+    function scroll_to(id) {
+    $('html,body').animate({
+    scrollTop: $('#'+id).offset().top
+    },'slow');
+    }
+    </script>
+
+
+    <!--
+    <===========================================================================================>
+    Template Name: Your Company Template
+    Author: Nicholas Impieri
+    Username: Anonik
+    License: MIT License
+    Cookie: YES
+    Cookie Policy: YES
+    Language: HTML5,CSS3,JAVASCRIPT (JQuery)
+    Compatibility: Desktop Device (Chrome,Safari,Firefox,Edge), Mobile Device (Coming Soon)
+    Meta Tag: YES (Edit Aviable)
+    SEO Friendly: NO (Add your SEO Settings)
+    Price: FREE (you must include this comment, and give the credits on footer section)
+    <===========================================================================================>
+    -->
+
+
+
+    <title>Template - Home</title>
+  </head>
+  <body>
+
+    <!--Navbar-->
+    <div id="home">
+    <nav>
+  <img class="logo" src="img/logo.png">
+  <h1 class="logo">Your Company Name</h1>
+<div class="navbar">
+  <ul>
+    <li><a><span onclick="scroll_to('home')">Home</a></li></span>
+    <li><a><span onclick="scroll_to('description')">About Us</a></li></span>
+    <li><a><span onclick="scroll_to('title-div')">Discover Our Team</a></li></span>
+    <li><a><span onclick="scroll_to('contact-form')">Contact Us</a></li></span>
+  </ul>
+</div>
+</nav>
+</div>
+    <!--Fine Navbar -->
+
+
+
+    <!--Prima sezione - Header -->
+    <div id="header">
+      <div id="header-content">
+        <h1 class="title-desc">Prova Titolo - Title Test</h1>
+        <p class="desc">
+          Prova ora il nostro nuovo software Template Software per ottenere un sito<br>
+          web dal design minimal e accativante, con un tempo di caricamento di pochissimi secondi<br>
+          oppure prova la nostra piattaforma cloud per gestire in remoto il tuo server-web.<br>
+        </p>
+        <a href="#" class="button-desc">Download</a> <a href="#" class="button-desc2">Buy Cloud iT</a>
+      </div>
+    </div>
+    <!--Fine Prima Sezione - Header-->
+
+
+    <!--Seconda Sezione - Description-->
+    <div id="description">
+      <div id="description-content">
+        <h1 class="desc-title">About Us</h1>
+        <p class="desc-page">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>
+           Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br>
+            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>
+             Excepteur sint occaecat cupidatat non proident, sunt in culpa qui<br>
+            officia deserunt mollit anim id est laborum.<br>
+        </p>
+        <div id="title-div">
+          <h1 class="div-desc">Our Team</h1>
+        </div>
+        <br>
+        <!--Team Card -->
+        <div class="row">
+<div class="column" style="background-color:white;">
+ <h2 class="col">John Smith</h2>
+ <img class="avatar-team" src="img/avatar1.png">
+ <p class="team-desc">CEO & SENIOR DEVELOPER</p>
+</div>
+<div class="column" style="background-color:white;">
+ <h2 class="col">Morgan McPatrick</h2>
+<img class="avatar-team" src="img/avatar2.png">
+<p class="team-desc">WEB DEVELOPER | WEB DESIGNER | CSS DIRECTOR</p>
+</div>
+<div class="column" style="background-color:white;">
+ <h2 class="col">Kelly Davis</h2>
+<img class="avatar-team" src="img/avatar3.png">
+ <p class="team-desc">SENIOR SCRIPT DEVELOPER & SERVER MANAGEMENT</p>
+</div>
+</div>
+        <!--End Team Card -->
+      </div>
+    </div>
+    <!--Fine Seconda Sezione - Description -->
+
+
+    <!--Terza sezione - Contact Section -->
+    <div id="contact-form">
+      <div id="contact-title">
+        <h1>Contact Us !</h1>
+      </div>
+      <div id="contact">
+        <form class="form-contact">
+          <h1 class="form-title">Compile the form to Contact Us</h1>
+<label for="cf_name"><b class="ciao">Name</b></label>
+<input type="text" placeholder="Enter Name" name="cf_name" required="">
+
+<label for="cf_email"><b class="ciao">Email</b></label>
+<input type="text" placeholder="Enter Email" name="cf_email" required="">
+
+<label for="cf_message"><b class="ciao">Message</b></label>
+<textarea name="cf_message"></textarea><br>
+
+<button type="submit" class="btn">Send Message</button>
+<button type="reset" class="btn2">Delete Message</button>
+</form><!--Fine Form - End Form -->
+      </div>
+    </div>
+  <!--Fine Terza Sezione - End Contact Section -->
+<br><br>
+
+
+<!--Footer -->
+<div id="footer">
+
+  <p class="footer-class">
+    Copyright &copy; Your Company 2011-2018 All Rights Reserved | Theme Made By: <a class="f-link" href="https://github.com/anonik9900">Nicholas Impieri Aka Anonik</a> | Check: <a class="f-link" target="_blank" href="js/cookie_policy.html">Cookie Policy</a>
+  </p>
+
+  <div id="social-row">
+    <p class="social-t">Social</p>
+    <a href="#" class="fa fa-facebook"></a>  <a href="#" class="fa fa-instagram"></a> <a href="#" class="fa fa-twitter"></a><a href="#" class="fa fa-youtube"></a> <a href="#" class="fa fa-github"></a>
+    <a href="#" class="fa fa-gitlab"></a>
+  </div>
+
+</div>
+<!--End Footer-->
+
+
+
+  </body>
+</html>
