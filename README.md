@@ -10,6 +10,7 @@
   <li><a href="https://github.com/anonik9900/Simple-Cookie">Simple Cookie By Anonik (Me)</a></li>
   <li><a href="https://github.com/anonik9900/Parallax-Effects">Parallax Effect By Anonik</a></li>
   <li><a href="https://github.com/anonik9900/Icons-Pack-For-Website">Icon Pack For Website By Anonik</a></li>
+  <li><a href="https://jquery.com/">JQuery 3.3.1</a></li>
   </ul>
   
   # <a href="http://repo.altervista.org/template/company-demo/">Live Demo</a>
